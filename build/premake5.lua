@@ -1,5 +1,5 @@
 --[[
--- NT3 Master Premake File
+-- NT3 Base Project Premake File
 -- Language: Lua
 --]]
 
